@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+##### 连接远端git
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+- git init
+- git remote add origin 远程地址
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+##### 这里演示的是链上nft 和nft市场合约
